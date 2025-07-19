@@ -1,0 +1,86 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET Core
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+*.symbols.nupkg
+
+## User-specific files
+*.user
+*.userprefs
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Code coverage
+*.coverage
+*.coveragexml
+TestResults/
+
+## Transforms
+*.transform
+
+## Publish
+*.Publish.xml
+
+## Temporary files
+~$*
+*.tmp
+*.bak
+
+## Other
+*.DS_Store
+Thumbs.db
+*.sdf
+*.dbmdl
+*.sqlite
+*.mdf
+*.ldf
+
+## Unity (если вдруг)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+## MAUI (если используется)
+.platforms/
+
+## Local secrets (если используешь dotnet user-secrets)
+secrets.json

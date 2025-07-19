@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WUI.Renderer", "WUI.Renderer\WUI.Renderer.csproj", "{0D2F840C-14ED-4DC2-976B-2054CAEBC44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WUI.Sandbox", "WUI.Sandbox\WUI.Sandbox.csproj", "{87069482-1D1C-4BBA-99F4-3EBD7ED87C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2F840C-14ED-4DC2-976B-2054CAEBC44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2F840C-14ED-4DC2-976B-2054CAEBC44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2F840C-14ED-4DC2-976B-2054CAEBC44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2F840C-14ED-4DC2-976B-2054CAEBC44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87069482-1D1C-4BBA-99F4-3EBD7ED87C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87069482-1D1C-4BBA-99F4-3EBD7ED87C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87069482-1D1C-4BBA-99F4-3EBD7ED87C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87069482-1D1C-4BBA-99F4-3EBD7ED87C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
