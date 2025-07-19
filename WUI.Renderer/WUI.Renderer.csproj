@@ -10,4 +10,8 @@
         <AssemblyName>WUI.Renderer</AssemblyName>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenTK" Version="4.9.4" />
+    </ItemGroup>
+
 </Project>
